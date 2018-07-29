@@ -1,0 +1,4 @@
+ES0
+rotx 100 20,rotx 50 5,rotx 300 100,rotx 320 20  
+ES1
+rotx 300 50,rotx 200 10,rotx 100 10,rotx 100 20  
